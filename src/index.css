@@ -8,7 +8,7 @@
 
 body {
   font-family: 'Dancing Script', cursive;
-  background-color: #377771;
+  background-color: #37718E;
 }
 
 .container {
@@ -18,8 +18,8 @@ body {
   padding: 30px;
   overflow: auto;
   border-radius: 5px;
-  background-color: #4CE0B3;
-  box-shadow: 0 30px 60px 0 rgba(76, 224, 179, 0.5);
+  background-color: #B9CDDA;
+  box-shadow: 0 30px 60px 0 rgba(0, 0, 0, 0.5);
 }
 
 .header {
